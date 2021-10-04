@@ -1,0 +1,37 @@
+[
+      {
+        "name": "이름",
+        "type": "text"
+      },
+      {
+        "name": "이메일",
+        "type": "email"
+      },
+      {
+        "name": "주소",
+        "type": "address"
+      },
+      {
+        "name": "사진",
+        "type": "file"
+      },
+      {
+        "name": "생.년.월.일",
+        "type": "date"
+      },
+      {
+        "name": "경력",
+        "type": "textarea",
+        "row":"5"
+      },
+      {
+        "name": "최종학력",
+        "type": "select",
+        "options": ["고등학교","대학교","대학원"]
+      },
+      {
+        "name": "동의 여부",
+        "type": "checkbox",
+        "options": ["네","아니오"]
+      }
+]
